@@ -80,8 +80,16 @@ This is directly relevant to CARS and nonlinear spectroscopy systems.
 
 ---
 
-## How to Run
+## Code
 
-```bash
-pip install numpy matplotlib
-python main.py
+See full implementation in [main.py](main.py)
+
+## Output
+
+**Figure 1: Simulated CARS-relevant spectral response showing Lorentzian and Gaussian lineshapes and corresponding time-domain dephasing behavior**
+
+![CARS Simulation Output](output.png)
+
+## Author
+
+Arijit Mallick
