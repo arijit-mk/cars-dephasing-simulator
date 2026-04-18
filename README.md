@@ -25,7 +25,7 @@ The simulation is based on standard spectral response functions used in optical 
 
 ### Lorentzian lineshape
 
-$L(\omega)=\frac{1}{\pi}\frac{\gamma}{(\omega-\omega_0)^2-\gamma^2}$
+$L(\omega)=\frac{1}{\pi}\frac{\gamma}{(\omega-\omega_0)^2+\gamma^2}$
 
 ### Gaussian Lineshape
 
